@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Echo Dot",
+        "descricao": "Alexa inteligente",
+        "categoria": "Tecnologia",
+        "imagem": "imagens/echo-dot.jpg",
+        "link": "SEU_LINK_AFILIADO"
+    },
+    {
+        "nome": "Grand Theft Auto VI - PlayStation 5",
+        "descricao": "DISPONÍVEL PARA JOGAR NO DIA <strong>19/11/2026</strong> COM ENVIO ANTECIPADO.<br>VERSÃO FÍSICA DO GTA VI CONTENDO CÓDIGO DE DOWNLOAD DENTRO DA EMBALAGEM PARA SUPORTAR PRÉ-LOADING.<br>PRÉ-VENDA: Todas as pré-vendas e compras de Grand Theft Auto VI realizadas antes do dia 20 de novembro receberão o Pacote Vintage Vice City, uma coleção de itens que remetem à época em que o neon brilhava mais forte.<br>MAPA MAIOR: Explore Vice City, praias, pântanos, pequenas cidades e diversas regiões de Leonida.<br>DOIS PROTAGONISTAS JOGÁVEIS: Alterne entre Jason e Lucia durante a história e participe de missões em dupla.<br>MUNDO ABERTO MAIS VIVO: NPCs com rotinas próprias, eventos aleatórios, estabelecimentos interativos e maior sensação de imersão.<br>REDES SOCIAIS INTEGRADAS: Assista a vídeos virais, acompanhe influenciadores e descubra eventos do mundo através do celular do jogo.<br>GRÁFICOS DE NOVA GERAÇÃO: Iluminação avançada, clima dinâmico, animações mais naturais e alto nível de detalhes nos ambientes.",
+        "categoria": "Games",
+        "imagem": "img/81o4MCqBv5L._AC_SX425_.jpg",
+        "imagem_secundaria": "img/81hm4Jz6cEL._AC_SL1500_.jpg",
+        "imagem_quaternaria": "img/81Ef8SeLvlL._AC_SL1500_.jpg",
+        "imagem_terciaria": "img/71CUbYK2m-L._AC_SL1500_.jpg",
+        "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?_encoding=UTF8&pd_rd_w=qZHzi&content-id=amzn1.sym.d712e25c-14ec-4908-bb7d-f5fe51a0a185&pf_rd_p=d712e25c-14ec-4908-bb7d-f5fe51a0a185&pf_rd_r=REHMQ34C2A16G06S7NQK&pd_rd_wg=h01ho&pd_rd_r=c2dc5cc7-ccce-4cbd-b471-c446d35c19ac&linkCode=ll2&tag=vazza0e-20&linkId=c5d70fd40eaf66c05540fd2c16eea589&ref_=as_li_ss_tl"
+    },
+    {
+        "nome": "Headset Gamer",
+        "descricao": "Design elegante, revestimento plástico piano. <br> Robusto, resistente contra arranhões.<br> Falante de alto magnetismo, som potente com ótima qualidade.<br> Som distinto para games, com graves e agudos meticulosos para escutar música.<br> Headband ajustável com design ergonômico, peso moderado para longos períodos de uso sem pressão",
+        "categoria": "Games",
+        "imagem": "img/71+kXnOiM2L._AC_SX679_.jpg",
+        "imagem_secundaria": "img/41QsXCDOBfL._AC_SX679_.jpg",
+        "link": "https://www.amazon.com.br/Headphone-Ouvido-HV-H2002d-Microfone-Falante/dp/B07Y2G7VX5?psc=1&linkCode=ll2&tag=vazza0e-20&linkId=3ea3aa22fd995ee22e38f2c44efa0bf3&ref_=as_li_ss_tl"
+    },
+    {
+        "nome": "Mouse sem fio Logitech M170",
+        "descricao": "Conexão Plug-and-Play: conecte o receptor USB à porta do seu computador para desfrutar de seu mouse sem fio.<br>Confortável e portátil: o formato confortável e portátil do mouse permite que ele seja colocado em uma bolsa para transporte e o design ambidestro guia ambas as mãos para uma posição natural.<br>Recursos de economia de energia: a duração da bateria de até 12 meses e o recurso de suspensão automática de energia oferecem mais tempo de uso do seu mouse.<br>Mouse sem fio de 2,4 GHz: confiável, o mouse M170 possui longo alcance e funciona a até 10m de distância do seu computador.<br>Navegação fácil: graças à rolagem controlada linha por linha e rastreamento óptico, o M170 da Logitech possui controle de cursor suave e preciso em praticamente qualquer superfície.<br>Compatibilidade: compatível com os sistemas operacionais Windows, macOS, Linux, Chrome OS, ipadOS e Android",
+        "categoria": "Games",
+        "imagem": "img/51+TpH1VS8L._AC_SY450_.jpg",
+        "imagem_secundaria": "img/61hYhdfT1QL._AC_SY450_.jpg",
+        "imagem_terciaria": "img/71jnabfMTaL._AC_SY450_.jpg",
+        "imagem_quaternaria": "img/71SQ+XULZML._AC_SL1500_.jpg",
+        "link": "https://www.amazon.com.br/Mouse-Nanoreceptor-Inclusa-Logitech-Mouses/dp/B074L9L5KZ?th=1&linkCode=ll2&tag=vazza0e-20&linkId=1be70c6be6a888a77a1deba4b5736ad4&ref_=as_li_ss_tl"
+    },
+    {
+        "nome": "Air Fryer",
+        "descricao": "Praticidade na cozinha",
+        "categoria": "Casa",
+        "imagem": "imagens/airfryer.jpg",
+        "link": "SEU_LINK_AFILIADO"
+    }
+]

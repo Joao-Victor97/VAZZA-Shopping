@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vazza Ofertas</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container header-content">
+            <a href="#" class="logo">
+                <img src="img/Captura_de_tela_2026-06-20_164354-removebg-preview.png" alt="Vazza" />
+                <span>VAZZA Ofertas</span>
+            </a>
+            <button class="home-btn" onclick="mostrarTodosProdutos()">Home</button>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h1>🔥 Melhores Ofertas da Amazon</h1>
+
+        <p>
+            Produtos selecionados diariamente.
+        </p>
+
+        <div class="search">
+            <input type="text" id="searchInput" placeholder="Pesquisar produtos..." onkeyup="searchProducts()">
+        </div>
+    </section>
+
+    <section class="container">
+
+        <div class="categories">
+            <div class="category" data-category="Tecnologia" onclick="filtrarPorCategoria('Tecnologia')">📱 Tecnologia</div>
+            <div class="category" data-category="Games" onclick="filtrarPorCategoria('Games')">🎮 Games</div>
+            <div class="category" data-category="Casa" onclick="filtrarPorCategoria('Casa')">🏠 Casa</div>
+            <div class="category" data-category="Fitness" onclick="filtrarPorCategoria('Fitness')">💪 Fitness</div>
+            <div class="category" data-category="Áudio" onclick="filtrarPorCategoria('Áudio')">🎧 Áudio</div>
+            <div class="category" data-category="Livros" onclick="filtrarPorCategoria('Livros')">📚 Livros</div>
+        </div>
+
+        <h2 class="section-title">
+            Produtos em Destaque
+        </h2>
+
+        <div class="products" id="products"></div>
+
+    </section>
+
+    <footer>
+        <p>
+            © 2026 Vazza Ofertas
+        </p>
+    </footer>
+
+    <div id="imageModal" class="image-modal" onclick="fecharModal(event)">
+        <button class="modal-nav prev-modal" onclick="prevImageModal(event)">❮</button>
+        <span class="close-modal" onclick="fecharModal()">&times;</span>
+        <img class="modal-image" id="modalImage" src="" alt="Visualização ampliada">
+        <button class="modal-nav next-modal" onclick="nextImageModal(event)">❯</button>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
