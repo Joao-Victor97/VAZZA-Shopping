@@ -1,14 +1,17 @@
 [
     {
         "nome": "Echo Dot",
-        "descricao": "Alexa inteligente",
+        "descricao": "• SOM VIBRANTE E POTENTE: Experimente um áudio aprimorado, vocais mais nítidos, graves mais potentes, para uma experiência Echo Dot ainda mais imersiva.<br><br>• SUAS MÚSICAS E CONTEÚDOS FAVORITOS: Reproduza músicas e podcasts do Amazon Music, Apple Music, Spotify, entre outros, ou por Bluetooth em todos os ambientes da sua casa.<br><br>• SEMPRE DISPONÍVEL PARA AJUDAR: Pergunte a previsão do tempo para Alexa, defina timers com sua voz, obtenha respostas e ouça piadas. Precisa de mais uns minutinhos de sono pela manhã? É só tocar no seu Echo Dot para adiar o alarme.<br><br>• MAIS CONFORTO EM CASA: Controle dispositivos de casa inteligente compatíveis por voz ou com rotinas ativadas por sensores de temperatura internos. Crie rotinas para ligar o ar condicionado se a temperatura interna estiver mais quente que o ideal.<br><br>• DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE: A Amazon não vende informações pessoais de clientes. O Echo Dot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone.<br><br>• APROVEITE AO MÁXIMO O PAREAMENTO DE DISPOSITIVOS: Escute música na casa toda usando os dispositivos Echo compatíveis em cômodos diferentes ou crie um sistema de home theater com o Fire TV.",
         "categoria": "Tecnologia",
-        "imagem": "imagens/echo-dot.jpg",
-        "link": "SEU_LINK_AFILIADO"
+        "imagem": "img/61uUYOB2lvL._AC_SY450_.jpg",
+        "imagem_secundaria": "img/51EkhvTiC+L._AC_SY450_.jpg",
+        "imagem_terciaria": "img/51IeRbtI59L._AC_SL1200_.jpg",
+        "imagem_quaternaria": "img/71-zHFD25QL._AC_SY450_.jpg",
+        "link": "https://www.amazon.com.br/Echo-Dot-4%C2%AA-gera%C3%A7%C3%A3o-Cor-Azul/dp/B09B8QFYZ2?th=1&linkCode=ll2&tag=vazza0e-20&linkId=75b1ff07b78c69a1e004da997a6f67e4&ref_=as_li_ss_tl"
     },
     {
         "nome": "Grand Theft Auto VI - PlayStation 5",
-        "descricao": "DISPONÍVEL PARA JOGAR NO DIA <strong>19/11/2026</strong> COM ENVIO ANTECIPADO.<br>VERSÃO FÍSICA DO GTA VI CONTENDO CÓDIGO DE DOWNLOAD DENTRO DA EMBALAGEM PARA SUPORTAR PRÉ-LOADING.<br>PRÉ-VENDA: Todas as pré-vendas e compras de Grand Theft Auto VI realizadas antes do dia 20 de novembro receberão o Pacote Vintage Vice City, uma coleção de itens que remetem à época em que o neon brilhava mais forte.<br>MAPA MAIOR: Explore Vice City, praias, pântanos, pequenas cidades e diversas regiões de Leonida.<br>DOIS PROTAGONISTAS JOGÁVEIS: Alterne entre Jason e Lucia durante a história e participe de missões em dupla.<br>MUNDO ABERTO MAIS VIVO: NPCs com rotinas próprias, eventos aleatórios, estabelecimentos interativos e maior sensação de imersão.<br>REDES SOCIAIS INTEGRADAS: Assista a vídeos virais, acompanhe influenciadores e descubra eventos do mundo através do celular do jogo.<br>GRÁFICOS DE NOVA GERAÇÃO: Iluminação avançada, clima dinâmico, animações mais naturais e alto nível de detalhes nos ambientes.",
+        "descricao": "• DISPONÍVEL PARA JOGAR NO DIA <strong>19/11/2026</strong> COM ENVIO ANTECIPADO.<br><br>• VERSÃO FÍSICA DO GTA VI CONTENDO CÓDIGO DE DOWNLOAD DENTRO DA EMBALAGEM PARA SUPORTAR PRÉ-LOADING.<br><br>• PRÉ-VENDA: Todas as pré-vendas e compras de Grand Theft Auto VI realizadas antes do dia 20 de novembro receberão o Pacote Vintage Vice City, uma coleção de itens que remetem à época em que o neon brilhava mais forte.<br><br>• MAPA MAIOR: Explore Vice City, praias, pântanos, pequenas cidades e diversas regiões de Leonida.<br><br>• DOIS PROTAGONISTAS JOGÁVEIS: Alterne entre Jason e Lucia durante a história e participe de missões em dupla.<br><br>• MUNDO ABERTO MAIS VIVO: NPCs com rotinas próprias, eventos aleatórios, estabelecimentos interativos e maior sensação de imersão.<br><br>• REDES SOCIAIS INTEGRADAS: Assista a vídeos virais, acompanhe influenciadores e descubra eventos do mundo através do celular do jogo.<br><br>• GRÁFICOS DE NOVA GERAÇÃO: Iluminação avançada, clima dinâmico, animações mais naturais e alto nível de detalhes nos ambientes.",
         "categoria": "Games",
         "imagem": "img/81o4MCqBv5L._AC_SX425_.jpg",
         "imagem_secundaria": "img/81hm4Jz6cEL._AC_SL1500_.jpg",
@@ -18,7 +21,7 @@
     },
     {
         "nome": "Headset Gamer",
-        "descricao": "Design elegante, revestimento plástico piano. <br> Robusto, resistente contra arranhões.<br> Falante de alto magnetismo, som potente com ótima qualidade.<br> Som distinto para games, com graves e agudos meticulosos para escutar música.<br> Headband ajustável com design ergonômico, peso moderado para longos períodos de uso sem pressão",
+        "descricao": "• Design elegante, revestimento plástico piano.<br><br>• Robusto, resistente contra arranhões.<br><br>• Falante de alto magnetismo, som potente com ótima qualidade.<br><br>• Som distinto para games, com graves e agudos meticulosos para escutar música.<br><br>• Headband ajustável com design ergonômico, peso moderado para longos períodos de uso sem pressão",
         "categoria": "Games",
         "imagem": "img/71+kXnOiM2L._AC_SX679_.jpg",
         "imagem_secundaria": "img/41QsXCDOBfL._AC_SX679_.jpg",
@@ -26,7 +29,7 @@
     },
     {
         "nome": "Mouse sem fio Logitech M170",
-        "descricao": "Conexão Plug-and-Play: conecte o receptor USB à porta do seu computador para desfrutar de seu mouse sem fio.<br>Confortável e portátil: o formato confortável e portátil do mouse permite que ele seja colocado em uma bolsa para transporte e o design ambidestro guia ambas as mãos para uma posição natural.<br>Recursos de economia de energia: a duração da bateria de até 12 meses e o recurso de suspensão automática de energia oferecem mais tempo de uso do seu mouse.<br>Mouse sem fio de 2,4 GHz: confiável, o mouse M170 possui longo alcance e funciona a até 10m de distância do seu computador.<br>Navegação fácil: graças à rolagem controlada linha por linha e rastreamento óptico, o M170 da Logitech possui controle de cursor suave e preciso em praticamente qualquer superfície.<br>Compatibilidade: compatível com os sistemas operacionais Windows, macOS, Linux, Chrome OS, ipadOS e Android",
+        "descricao": "• Conexão Plug-and-Play: conecte o receptor USB à porta do seu computador para desfrutar de seu mouse sem fio.<br><br>• Confortável e portátil: o formato confortável e portátil do mouse permite que ele seja colocado em uma bolsa para transporte e o design ambidestro guia ambas as mãos para uma posição natural.<br><br>• Recursos de economia de energia: a duração da bateria de até 12 meses e o recurso de suspensão automática de energia oferecem mais tempo de uso do seu mouse.<br><br>• Mouse sem fio de 2,4 GHz: confiável, o mouse M170 possui longo alcance e funciona a até 10m de distância do seu computador.<br><br>• Navegação fácil: graças à rolagem controlada linha por linha e rastreamento óptico, o M170 da Logitech possui controle de cursor suave e preciso em praticamente qualquer superfície.<br><br>• Compatibilidade: compatível com os sistemas operacionais Windows, macOS, Linux, Chrome OS, ipadOS e Android",
         "categoria": "Games",
         "imagem": "img/51+TpH1VS8L._AC_SY450_.jpg",
         "imagem_secundaria": "img/61hYhdfT1QL._AC_SY450_.jpg",
@@ -35,10 +38,112 @@
         "link": "https://www.amazon.com.br/Mouse-Nanoreceptor-Inclusa-Logitech-Mouses/dp/B074L9L5KZ?th=1&linkCode=ll2&tag=vazza0e-20&linkId=1be70c6be6a888a77a1deba4b5736ad4&ref_=as_li_ss_tl"
     },
     {
-        "nome": "Air Fryer",
-        "descricao": "Praticidade na cozinha",
+        "nome": "Sanduicheira Elétrica Cadence Click",
+        "descricao": "• Botão Liga/Desliga com LEDs indicadores: Não precisa tirar da tomada.<br><br>• Pés Embutidos mais firmes: A sanduicheira não tomba.<br><br>• Chapas Antiaderentes + Profundas: 80%* + ESPAÇO mais versátil.<br><br>• Chapas + SIMPLES DE LIMPAR: Superior grill, Inferior LISINHA!<br><br>• Alça embutida e Base Porta Fio: Área protegida de aquecimento. 750 W de potência",
         "categoria": "Casa",
-        "imagem": "imagens/airfryer.jpg",
-        "link": "SEU_LINK_AFILIADO"
+        "imagem": "img/51UxR8FHe-L._AC_SX679_.jpg",
+        "imagem_secundaria":"img/41QsXCDOBfL._AC_SX679_.jpg",
+        "imagem_terciaria": "img/51drpBM+XuL._AC_SX679_.jpg",
+        "link": "https://www.amazon.com.br/Sanduicheira-El%C3%A9trica-Cadence-Click-127V/dp/B0CDJ4L7CZ?pd_rd_w=eiTee&content-id=amzn1.sym.550666bb-9d24-483d-bc9e-4a297db376ce&pf_rd_p=550666bb-9d24-483d-bc9e-4a297db376ce&pf_rd_r=NAEVC6ZYG07EB2CDD7X3&pd_rd_wg=Qcbba&pd_rd_r=c588213c-e9cd-4695-b953-c24422b2d295&pd_rd_i=B0CDJ4L7CZ&th=1&linkCode=ll2&tag=vazza0e-20&linkId=6bf48dfebe3ec8fe4662c7e49cd0f071&ref_=as_li_ss_tl"
+    },
+    {
+        "nome": "# Amazon Fire TV Stick HD (modelo mais recente)",
+        "descricao": "• Evolua sua TV instantaneamente: O Fire TV Stick HD é nosso streaming stick HD mais rápido até agora, com uma navegação simplificada que leva você direto ao seu entretenimento.<br><br>• Leve seus filmes, séries e TV ao vivo para onde você for com o novo perfil ultraportátil. Veja tudo ganhar vida com Full HD nítido e suporte a Wi-Fi 6.<br><br>• Jogue jogos Xbox: Jogue Call of Duty: Black Ops 7, Outer Worlds 2, Ninja Gaiden 4 e centenas de jogos no seu Fire TV Stick HD com Xbox Game Pass via nuvem. Assinatura do Xbox Game Pass e controle compatível necessários. Cada um deles é vendido separadamente.<br><br>• Todos os seus aplicativos em um só lugar: Prime Video, Netflix, YouTube, Disney+, Apple TV, HBO Max, Globoplay e outros.<br><br>• Escolhas mais inteligentes com Alexa: Encontrar o que você ama nunca foi tão fácil. Pressione o botão de voz do controle remoto e fale naturalmente para encontrar o que assistir em seus aplicativos, gerenciar sua casa inteligente ou mergulhar em praticamente qualquer tópico.<br><br>• Controle remoto por voz com Alexa: Controle sua TV, soundbar e receptor compatíveis com botões dedicados para ligar/desligar e de volume.",
+        "categoria": "Tecnologia",
+        "imagem_secundaria": "img/41c5Zpo4-mL._AC_.jpg",
+        "imagem_terciaria": "img/61EwP1HwXlL._AC_SY741_.jpg",
+        "imagem_quaternaria": "img/81PZca50oxL._AC_SL1500_.jpg",
+        "imagem": "img/614YeT6MRAL._AC_SY741_.jpg",
+        "link": "https://www.amazon.com.br/fire-tv-stick-hd/dp/B0DVK166SV?&linkCode=ll2&tag=vazza0e-20&linkId=eb652cd413304f6e5357325285dea54a&ref_=as_li_ss_tl"
+    },
+    {
+        "nome": "Controle sem fio PlayStation DualSense™",
+        "descricao": "• RESPOSTA TÁTIL: Sinta uma resposta física às suas ações no jogo com acionadores duplos que substituem os motores de vibração tradicionais. Nas suas mãos, essas vibrações dinâmicas podem simular a sensação de tudo, desde ambientes até o recuo de diferentes armas.<br><br>• GATILHOS ADAPTÁVEIS: Sinta níveis variados de força e tensão conforme você interage com seus equipamentos e ambientes do jogo. Desde puxar a corda de um arco cada vez mais tensionado até pisar no freio de um carro em alta velocidade, sinta-se fisicamente conectado às suas ações na tela.<br><br>• CONFORTO EXCLUSIVO: Assuma o controle com um design evoluído em dois tons que combina um layout icônico e intuitivo com controles analógicos aprimorados e uma barra de luz reimaginada.",
+        "categoria": "Games",
+        "imagem": "img/61GNEp3auhL._AC_SX679_.jpg",
+        "imagem_secundaria": "img/612OLbtPS9L._AC_SX679_.jpg",
+        "imagem_terciaria": "img/61LGIkjLgEL._AC_SX679_.jpg",
+        "imagem_quaternaria": "img/61iPndREgZL._AC_SX679_.jpg",
+        "link": "https://www.amazon.com.br/Controle-sem-fio-PlayStation-DualSenseTM/dp/B0FY6Y9WZT?th=1&linkCode=ll2&tag=vazza0e-20&linkId=024c5fe7d254e71e766d02f0e28d599e&ref_=as_li_ss_tl"
+    },
+    {
+        "nome": "Câmera de Segurança Ring Indoor Cam",
+        "descricao": "",
+        "categoria": "Casa",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Fone de Ouvido sem Fio Bluetooth",
+        "descricao": "",
+        "categoria": "Tecnologia",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Batedeira Planetária Elétrica",
+        "descricao": "",
+        "categoria": "Casa",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Smartwatch Esportivo",
+        "descricao": "",
+        "categoria": "Tecnologia",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Aspirador de Pó Robô",
+        "descricao": "",
+        "categoria": "Casa",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Cafeteira Expresso Automática",
+        "descricao": "",
+        "categoria": "Casa",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Teclado Mecânico Gamer Magnético",
+        "descricao": "• A tecnologia Rapid Trigger de 0.01mm garante uma resposta instantânea, ideal para jogos de alta performance.<br><br>• Personalize sua experiência de jogo e digitação com a distância de atuação ajustável de 0.1mm a 3.4mm.<br><br>• Desfrute de recursos avançados, como Dynamic Keystrokes, Toggle Key e Snap Key para maior controle em jogos.<br><br>• A iluminação ARGB com taxa de atualização de 500Hz e as keycaps de PBT proporcionam um visual impressionante e durabilidade.",
+        "categoria": "Games",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
+    },
+    {
+        "nome": "Câmera Digital Compacta",
+        "descricao": "",
+        "categoria": "Tecnologia",
+        "imagem": "",
+        "imagem_secundaria": "",
+        "imagem_terciaria": "",
+        "imagem_quaternaria": "",
+        "link": ""
     }
 ]
